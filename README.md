@@ -36,7 +36,7 @@ Before running the project, make sure you have the following prerequisites:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/mirabdullahyaser/Retrieval-Augmented-Generation-Engine-with-LangChain-and-Streamlit.git
+   git clone https://github.com/GhanaSyamSaiVarma/RAG-CHAT-AI.git
    cd Retrieval-Augmented-Generation-Engine-with-LangChain-and-Streamlit
    ```
 
@@ -60,15 +60,4 @@ Before running the project, make sure you have the following prerequisites:
 
 8. Engage in interactive conversations with the documents by typing your questions in the chat input box.
 
-## Contributors
 
-[Mir Abdullah Yaser](https://github.com/mirabdullahyaser)
-
-## Contact
-
-If you have any questions, suggestions, or would like to discuss this project further, feel free to get in touch with me:
-
-- [Email](mailto:mirabdullahyaser@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mir-abdullah-yaser/)
-
-I'm open to collaboration and would be happy to connect!
